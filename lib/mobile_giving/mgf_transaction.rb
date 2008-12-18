@@ -4,7 +4,6 @@ include Hpricot
 # This class holds the contents of a MGF Transaction record.  It's normalized and made Ruby-esque.  
 # There are also some convenience functions for importing different formats of XML that MGF sends us
 
-module SMS
 module MobileGiving
 class MgfTransaction
 
@@ -101,5 +100,3 @@ protected
 
 end
 end
-end
-

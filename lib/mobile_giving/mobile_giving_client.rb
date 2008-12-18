@@ -1,7 +1,6 @@
 require 'hpricot'
 include Hpricot
 
-module SMS
 module MobileGiving
 class MobileGivingClient
 
@@ -171,5 +170,4 @@ class InvalidPhoneFormatException < MobileGivingException
 end
 
 
-end
 end
