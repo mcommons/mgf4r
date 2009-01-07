@@ -1,10 +1,10 @@
 === MGF4R
  
-- [Code on GitHub](http://github.com/mcommons/mgf4r)
+- Code on GitHub [http://github.com/mcommons/mgf4r]
  
 === Description
  
-Ruby client for Mobile Giving Foundation API
+Ruby client for Mobile Giving Foundation API. Used by Mobile Commons for processing mobile donations over SMS [http://mcommons.com/mobile-fundraising].
 
 Based on the API described at http://services.mobilegiving.org/Service.asmx
 
